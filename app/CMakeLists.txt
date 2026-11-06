@@ -1,0 +1,2 @@
+add_executable(cpp_llm_edu_app main.cpp)
+target_link_libraries(cpp_llm_edu_app PRIVATE cpp_llm_edu edu_warnings)

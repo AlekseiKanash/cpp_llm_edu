@@ -66,3 +66,9 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Editors, OS, agents
+.DS_Store
+.vscode/
+.idea/
+.claude/settings.local.json
